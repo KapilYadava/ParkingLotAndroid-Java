@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyParkingLot</string>
+    <string name="already_chooson">Vehicle Already Parked choose a different lot or vehicle</string>
+    <string name="lot_taken">Lot already taken</string>
+    <string name="vehicle_present">Vehicle already present</string>
+    <string name="vehicle_parked">Vehicle Parked</string>
+    <string name="mandatory_fields">All fields are mandatory! please try again!</string>
+</resources>
